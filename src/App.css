@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.product {
+  background-color:aliceblue;
+  padding:15px;
+  border:3px solid #282c34;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.counter {
+  margin-bottom: 20px;
+}
+.counter button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.single-user {border:2px solid antiquewhite;padding: 15px;border-radius: 5px;margin: 10px;list-style: none;}
